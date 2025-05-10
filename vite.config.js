@@ -5,6 +5,7 @@ import path from "path";
 
 
 export default defineConfig({
+  base: "/cosmic-portfolio/",
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
