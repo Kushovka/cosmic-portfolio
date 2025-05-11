@@ -1,4 +1,5 @@
 # 👉 **[Cosmic developer portfolio](https://kushovka.github.io/cosmic-portfolio/)**
+<br><br>
 ![изображение_2025-05-11_100436456](https://github.com/user-attachments/assets/f47a559f-3bde-4615-b2c7-caa9604df627)
 <br><br>
 <p align="center">
